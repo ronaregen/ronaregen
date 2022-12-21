@@ -1,3 +1,5 @@
+[![wakatime](https://wakatime.com/badge/user/fb2a8fab-2523-441f-a6d1-e8e3de281681.svg)](https://wakatime.com/@ronaregen)
+
 # 💫 About Me:
 Hello folks, my name is Rona Regen but you can call me Regen. <br>short about me I’m currently working as freelance programmer, <br>I do my works with Laravel, NextJS and Flutter<br>if you want to collaborate or looking something related my work feel free to contact me on my email:<br>ronaregen@gmail.com<br>
 
