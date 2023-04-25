@@ -2,7 +2,7 @@
 # 💫 About Me:
 Hello folks, my name is Rona Regen but you can call me Regen. <br>short about me I’m currently working as freelance Fullstack, Back End and mobile programmer, <br>I do my works with some technologies and languages 
 <br>Fullstack: <b>Laravel, Codeigniter</b> 
-<br> Back End: <b>Fiber (Go), Djangorestframewrok (python)</b>
+<br> Back End: <b>Fiber (Go), Djangorestframework (python), Flask (python)</b>
 <br> Front End: <b>NuxtJS</b>
 <br>Mobile: <b>Flutter</b> <br> DBMS:  <b>PostgreSQL</b>, <b>MySql</b>, and <b>Microsoft SQL Server</b><br>
 Sometimes I also do some DevOps things like build docker image and manage container.
