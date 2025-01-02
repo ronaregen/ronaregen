@@ -1,11 +1,20 @@
 
 # 💫 About Me:
-Hello folks, my name is Rona Regen but you can call me Regen. <br>short about me I’m currently working as freelance Fullstack, Back End and mobile programmer, <br>I do my works with some technologies and languages 
-<br>Fullstack: <b>Laravel</b> 
-<br> Back End: <b>Fiber (Go), Laravel</b>
-<br> DBMS:  <b>PostgreSQL</b>, <b>MySql</b>, and <b>Microsoft SQL Server</b><br>
-Sometimes I also do some DevOps things like build docker image and manage container.
-<br>if you want to collaborate or looking something related my work feel free to contact me on my email:<br>ronaregen@gmail.com<br>
+
+Hello folks, my name is Rona Regen, but you can call me Regen.  
+I’m currently working as a **Freelance Fullstack Developer**, **Back-End Developer**, and **DevOps Engineer**.  
+
+## 🛠️ Technologies I Work With:
+- **Fullstack**: Laravel (VILT stack: Vue, Inertia, Laravel, Tailwind)  
+- **Back-End**: Fiber (Go), Laravel  
+- **DBMS**: PostgreSQL, MySQL, Microsoft SQL Server  
+- **DevOps**: Docker (building images, managing containers), Kubernetes (learning and exploring further).  
+
+I enjoy creating scalable, clean, and maintainable code while leveraging modern tools and best practices.  
+
+If you'd like to collaborate or discuss work opportunities, feel free to reach out via email:  
+📧 ronaregen@gmail.com
+
 
 
 
