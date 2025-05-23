@@ -8,7 +8,7 @@ I’m currently working as a **Freelance Fullstack Developer**, **Back-End Devel
 - **Fullstack**: Laravel (VILT stack: Vue, Inertia, Laravel, Tailwind)  
 - **Back-End**: Fiber (Go), Laravel  
 - **DBMS**: PostgreSQL, MySQL, Microsoft SQL Server  
-- **DevOps**: Docker (building images, managing containers), Kubernetes (learning and exploring further).  
+- **DevOps**: Docker, Kubernetes, Gitlab CICD, Github Action, Infisical, GKE.  
 
 I enjoy creating scalable, clean, and maintainable code while leveraging modern tools and best practices.  
 
